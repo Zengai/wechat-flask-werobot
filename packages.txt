@@ -1,0 +1,8 @@
+sh
+youtube-dl
+flask
+werobot
+cryptography
+gunicorn
+gevent
+bypy
